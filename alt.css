@@ -1,0 +1,68 @@
+﻿body {
+  background-color: grey;
+  }
+.newStyle1 {
+	font-family: "Arial";
+	color: black;
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 1px #0000FF;
+	border-color: #0000FF;
+}
+.Glow {
+	font-family: "Arial";
+	box-shadow: 0px 0px 5px 1px #000000;
+}
+.auto-style1 {
+	font-family: "Arial";
+	font-size: medium;
+	color: #000000;
+}
+.Announcement-lightblue {
+    background: linear-gradient(0deg, #80bdfb 0%, #ffffff 67%);
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #000000;
+	text-align:center
+}	
+.Announcement-red {
+    background: linear-gradient(0deg, #FF0000 0%, #ffffff 67%);
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #000000;
+	text-align:center
+}
+.Announcement-green {
+    background: linear-gradient(0deg, #00FF00 0%, #ffffff 67%);
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #000000;
+	text-align:center
+}
+.Announcement-yellow {
+    background: linear-gradient(0deg, #FFFF00 0%, #ffffff 67%);
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #000000;
+	text-align:center
+
+}
+.Announcement-blue {
+    background: linear-gradient(0deg, #0000FF 0%, #ffffff 67%);
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #000000;
+	text-align:center
+}
+
+.GlowSM {
+	font-family: "MS Gothic";
+	box-shadow: 0px 0px 4px 1px #FFFFFF;
+}
+
+.font {
+	font-family: "MS Gothic";
+	font-size: medium;
+	color: #FFFFFF;
+}
