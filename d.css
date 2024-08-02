@@ -1,0 +1,14 @@
+    cssCopy code#content { 
+      cursor: pointer; 
+      text-align: center; 
+      padding: 20px; 
+      border: 1px solid #ccc; 
+    } 
+     
+    #hiddenText { 
+      display: none; 
+      text-align: center; 
+      padding: 20px; 
+      border: 1px solid #ccc; 
+      margin-top: 10px; 
+    } 
