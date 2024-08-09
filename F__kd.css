@@ -1,0 +1,61 @@
+﻿body {
+  background-color: black;
+  font-family: "Comic Sans MS";
+	background-color: #A0A000;
+	border-style: solid;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 1px #0000FF;
+	border-color: #0000FF;
+  
+   }
+.newStyle1 {
+	font-family: "Comic Sans MS"; 
+	background-color: #C0C0C0;
+	border-style: solid;
+	border-radius: 5px;
+	box-shadow: 0px 0px 5px 1px #0000FF;
+	border-color: #0000FF;
+}
+.Glow {
+	font-family: "Comic Sans MS";
+	box-shadow: 0px 0px 100px 300px #AFDEAA;
+}
+.font {
+	font-family: "Comic Sans MS";
+	font-size: medium;
+	color: #FFFFFF;
+
+}
+
+.Announcement-lightblue {
+    background: linear-gradient(0deg, #80bdfb 0%, #ffffff 67%);
+	font-size: medium;
+	color: #000000;
+	text-align:center
+}	
+.Announcement-red {
+    background: linear-gradient(0deg, #FF0000 0%, #ffffff 67%);
+	font-size: medium;
+	color: #000000;
+	text-align:right
+}
+.Announcement-green {
+    background: linear-gradient(0deg, #00FF00 0%, #ffffff 67%);
+	font-size: medium;
+	color: #000000;
+	text-align:right
+}
+.Announcement-yellow {
+    background: linear-gradient(0deg, #FFFF00 0%, #ffffff 67%);
+	font-size: medium;
+	color: #000000;
+	text-align:right
+
+}
+.Announcement-blue {
+    background: linear-gradient(0deg, #0000FF 0%, #ffffff 67%);
+	font-size: medium;
+	color: #000000;
+	text-align:right
+}
+
